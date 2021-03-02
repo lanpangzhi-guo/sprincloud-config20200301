@@ -9,7 +9,7 @@ import org.springframework.cloud.netflix.eureka.EnableEurekaClient;
  * @program: cloud2020
  * @Date: 2021/2/22 09:55
  * @Author: gqLi
- * @Description:
+ * @Description: githup测试
  */
 @SpringBootApplication(exclude = {DataSourceAutoConfiguration.class})
 @EnableEurekaClient
